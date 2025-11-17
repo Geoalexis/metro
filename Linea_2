@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Línea 2",
-        "color": "#FFD700"
+        "color": "#FFD700",
+        "stroke-width": 4
       },
       "geometry": {
         "type": "LineString",
