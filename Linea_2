@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "name": "Metro_Santiago_Linea2,
   "features": [
     {
       "type": "Feature",
