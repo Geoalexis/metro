@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "name": "Línea 5",
-        "color": "#00FF7F",
+        "color": "#00843D",
         "stroke-width": 8
       },
       "geometry": {
@@ -46,6 +46,7 @@
     }
   ]
 }
+
 
 
 
