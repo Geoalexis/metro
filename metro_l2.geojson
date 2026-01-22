@@ -7,7 +7,7 @@
       "properties": {
         "name": "Línea 2",
         "color": "#FFD700",
-        "stroke-width": 8
+        "stroke-width": 7
       },
       "geometry": {
         "type": "LineString",
@@ -39,6 +39,7 @@
     }
   ]
 }
+
 
 
 
