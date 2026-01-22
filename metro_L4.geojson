@@ -6,8 +6,8 @@
       "type": "Feature",
       "properties": {
         "name": "Línea 4",
-        "color": "#0072CE",
-        "stroke-width": 5
+        "color": "#0072BC",
+        "stroke-width": 8
       },
       "geometry": {
         "type": "LineString",
@@ -36,6 +36,7 @@
     }
   ]
 }
+
 
 
 
