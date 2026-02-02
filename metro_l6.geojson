@@ -1,12 +1,13 @@
 {
   "type": "FeatureCollection",
+  "name": "Metro_Santiago_Linea6",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Linea 6",
-        "linea": "L6",
-        "color": "#8A2BE2"
+        "name": "Línea 6",
+        "color": "#8A2BE2",
+        "stroke-width": 8
       },
       "geometry": {
         "type": "LineString",
@@ -17,6 +18,6 @@
           [-70.606815, -33.438363]
         ]
       }
-    },
-
+    }
+  ]
 }
