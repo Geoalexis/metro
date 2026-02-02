@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linea 6",
+        "linea": "L6",
+        "color": "#8A2BE2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-70.695532, -33.483272],
+          [-70.606963, -33.461881],
+          [-70.625169, -33.466975],
+          [-70.606815, -33.438363]
+        ]
+      }
+    },
+
+}
