@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Línea 1",
+        "marker-color": "#E53935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.767, -33.556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Línea 2",
+        "marker-color": "#43A047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.767, -33.561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Línea 3",
+        "marker-color": "#6D4C41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.767, -33.566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Línea 4",
+        "marker-color": "#1E88E5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.767, -33.571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Línea 4A",
+        "marker-color": "#26C6DA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.767, -33.576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Línea 5",
+        "marker-color": "#2E7D32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.767, -33.581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Línea 6",
+        "marker-color": "#6F2C91"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.767, -33.586]
+      }
+    }
+  ]
+}
